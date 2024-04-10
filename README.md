@@ -1,16 +1,20 @@
-# video_call_zego_cloud
 
-A new Flutter project.
+# Video Call App with Zego Cloud
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Overview:
+A Flutter project showcasing a video call application using Cubit for state management and Zego Cloud SDK for seamless video communication.
 
-A few resources to get you started if this is your first Flutter project:
+## Features:
+- Join video calls by entering a call ID and name.
+- Utilizes Zego Cloud SDK for high-quality video streaming.
+- Simple and intuitive user interface with custom UI components.
+## Technology Stack:
+- Flutter
+- Cubit
+- Zego Cloud SDK
+## How to Use:
+Clone the repository, set up your Flutter environment, install dependencies, replace Zego Cloud credentials, and run the app on your device or emulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![test mockup](https://github.com/wafaMohamed/video_call_zego_cloud_cubit/assets/101423134/9c913a69-ecc3-4abd-b135-0334a8c01e30)
